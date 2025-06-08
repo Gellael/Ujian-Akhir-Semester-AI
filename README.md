@@ -79,7 +79,7 @@ SmartCity Bengkulu adalah sistem navigasi cerdas yang dapat memprediksi kemaceta
 
 ## 📁 Struktur Folder
 
-![Struktur Folder](media/image2.png)
+![Struktur Folder](Struktur folder.png)
 
 ```
 SmartCity-Bengkulu/
