@@ -199,7 +199,6 @@ pip install -r requirements.txt
 
 - ✅ Integrasi data kemacetan real-time
 - ✅ Aplikasi berbasis web atau mobile
-- ✅ Sistem pelaporan masyarakat
 - ✅ Prediksi kemacetan berdasarkan waktu (jam/hari)
 
 ---
