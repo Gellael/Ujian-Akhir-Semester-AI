@@ -66,7 +66,7 @@ SmartCity Bengkulu adalah sistem navigasi cerdas yang dapat memprediksi kemaceta
 
 ### 📋 Diagram Alur Sistem
 
-![Diagram Alur Sistem](media/image2.png)
+![Diagram Alur Sistem](Diagram Alur Sistem.png)
 
 **Alur Proses:**
 1. **Input Lokasi Awal & Tujuan** → User memilih lokasi dari dropdown
