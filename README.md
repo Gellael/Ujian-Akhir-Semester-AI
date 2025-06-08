@@ -1,4 +1,5 @@
-# SmartCity Bengkulu - Sistem Navigasi & Prediksi Kemacetan
+# UAS Kecerdasan Buatan 
+SmartCity Bengkulu - Sistem Navigasi & Prediksi Kemacetan
     1. Model AI yang Digunakan
        🔍 Model: XGBoost Classifier
         Alasan Pemilihan:
