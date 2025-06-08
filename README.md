@@ -169,7 +169,6 @@ folium.PolyLine(route_path).add_to(map)
 
 ### **Software yang Harus Diinstal**
 
-![Requirements dan Setup](media/image1.png)
 
 | **Komponen** | **Cara Install** | **Kegunaan** |
 |--------------|------------------|--------------|
