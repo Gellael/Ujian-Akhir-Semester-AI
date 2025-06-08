@@ -109,7 +109,7 @@ python app.py
 
 ### **3. Akses Aplikasi**
 Buka browser dan akses `http://localhost:5000`
-
+![Requirements dan Setup](media/image1.png)
 ---
 
 ## 📈 Evaluasi Model
@@ -207,26 +207,4 @@ pip install -r requirements.txt
 
 ---
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🤝 Contributing
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📞 Contact
-
-Untuk pertanyaan lebih lanjut, silakan hubungi tim pengembang melalui repository issues atau email.
-
----
-
-⭐ **Jangan lupa berikan star jika project ini membantu!** ⭐
