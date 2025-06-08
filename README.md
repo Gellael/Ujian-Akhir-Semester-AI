@@ -111,6 +111,14 @@ python app.py
 Buka browser dan akses `http://localhost:5000`
 ![Rute utama dan rute Alternatif ](https://github.com/Gellael/Ujian-Akhir-Semester-AI/blob/main/Gambar1.png)
 ![Mencari Rute](https://github.com/Gellael/Ujian-Akhir-Semester-AI/blob/main/Gambar2.png)
+![Mencari Rute](https://github.com/Gellael/Ujian-Akhir-Semester-AI/blob/main/Gambar3.png)
+![Rute Alternatif ](https://github.com/Gellael/Ujian-Akhir-Semester-AI/blob/main/Gambar4.png)
+![Notifikasi Kemacetan](https://github.com/Gellael/Ujian-Akhir-Semester-AI/blob/main/Gambar5.png)
+![Rute Lokasi](https://github.com/Gellael/Ujian-Akhir-Semester-AI/blob/main/Gambar6.png)
+![Titik lokasi](https://github.com/Gellael/Ujian-Akhir-Semester-AI/blob/main/Gambar7.png)
+![Rute Menggunakan Motor Jalur Alternatif  ](https://github.com/Gellael/Ujian-Akhir-Semester-AI/blob/main/Gambar8.png)
+![Rute Menggunakan Motor Jalur Utama ](https://github.com/Gellael/Ujian-Akhir-Semester-AI/blob/main/Gambar9.png)
+
 ---
 
 ## 📈 Evaluasi Model
