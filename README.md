@@ -107,9 +107,10 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### **3. Akses Aplikasi**
+### **3. Pengujian Aplikasi**
 Buka browser dan akses `http://localhost:5000`
-![Requirements dan Setup](media/image1.png)
+![Rute utama dan rute Alternatif ](https://github.com/Gellael/Ujian-Akhir-Semester-AI/blob/main/Gambar1.png)
+![Mencari Rute](https://github.com/Gellael/Ujian-Akhir-Semester-AI/blob/main/Gambar2.png)
 ---
 
 ## 📈 Evaluasi Model
